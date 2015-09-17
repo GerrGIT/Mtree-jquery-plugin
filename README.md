@@ -35,14 +35,14 @@ Create a list in HTML:
 </ul>
 ```
 
-Configure Mtree
+Call Mtree
 ```html
 		$(document).ready(function() {
 			$('ul.mtree').mtree();
 		});
 ```
 
-Use options:
+Or use options to ovveride defaults:
 ```html
 		$(document).ready(function() {
 			$('ul.mtree').mtree({
