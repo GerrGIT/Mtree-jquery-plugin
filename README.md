@@ -12,7 +12,8 @@ Mtree depends on jQuery. Include them both in end of your HTML code:
 ```html
 <script src="jquery.js" type="text/javascript"></script>
 <script src="jquery.mtree.js" type="text/javascript"></script>
-<script src="jquery.mtree.css" type="text/javascript"></script>
+<script src="jquery.mtree.css" type="text/css"></script>
+<script src="velocity.min.js" type="text/javascript"></script>
 ```
 
 Create a list in HTML:
