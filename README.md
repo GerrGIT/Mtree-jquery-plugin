@@ -36,14 +36,14 @@ Create a list in HTML:
 ```
 
 Call Mtree
-```html
+```js
 		$(document).ready(function() {
 			$('ul.mtree').mtree();
 		});
 ```
 
 Or use options to ovveride defaults:
-```html
+```js
 		$(document).ready(function() {
 			$('ul.mtree').mtree({
 				collapsed: true, // Start with collapsed menu (only level 1 items visible)
