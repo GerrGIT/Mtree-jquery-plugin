@@ -30,7 +30,7 @@ Create a list in HTML:
 		<a href="#">Images</a>
 		<ul>
 			<a href="/image/admin/">Admin</a>
-			<a href="/imagecategory/admin/">Categorieen</a>	
+			<a href="/imagecategory/admin/">Categories</a>	
 		</ul>
 	</li>
 	<li>
