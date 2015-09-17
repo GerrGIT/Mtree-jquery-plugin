@@ -7,7 +7,10 @@ Modified to behave like a real real jquery plugin.
 
 ## How to Use?
 
-Mtree depends on jQuery. Include them both in end of your HTML code:
+Mtree depends on jQuery. Include these files into your HTML code:
+
+Also according to the original code, Velocity should be optional, but it seems not to work without it. 
+I did not pay attention to it, just include it or fix it and submit a pull request.
 
 ```html
 <script src="jquery.js" type="text/javascript"></script>
