@@ -42,7 +42,7 @@ Call Mtree
 		});
 ```
 
-Or use options to ovveride defaults:
+Or use options to override defaults:
 ```js
 		$(document).ready(function() {
 			$('ul.mtree').mtree({
