@@ -18,7 +18,7 @@ Mtree depends on jQuery. Include them both in end of your HTML code:
 Create a list in HTML:
 
 ```html
-<ul class="mtree bubba">
+<ul class="mtree">
 	<li>
 		<a href="/content/admin/">Content</a>
 	</li>
