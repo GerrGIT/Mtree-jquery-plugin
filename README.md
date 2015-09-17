@@ -1,6 +1,8 @@
 # Mtree-jquery-plugin
 Mtree Jquery plugin original by Karl Ward build on top of Foundation 5.
+
 See: http://foundation.zurb.com/forum/posts/17104-plugin-mtree-menu
+
 Modified to behave like a real real jquery plugin.
 
 ## How to Use?
